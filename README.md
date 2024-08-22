@@ -1,0 +1,1 @@
+En esta entrega se desarrollaron 15 ejercicios utilizando estructuras de control fundamentales en programación, como if, else if, y else, entre otras así como el uso de variables para almacenar y manipular datos estos ejercicios propuestos en clase se realizaron en JavaScript
